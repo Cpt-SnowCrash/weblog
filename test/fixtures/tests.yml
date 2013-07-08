@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  testsubject: MyString
+  marks: 1
+
+two:
+  testsubject: MyString
+  marks: 1
